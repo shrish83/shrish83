@@ -1,13 +1,21 @@
 # Hi there 👋
-## :dart: Data Science | :monocle_face: EDA | Machine Learning 
+#### :dart: Data Science | :monocle_face: EDA | Machine Learning 
 
-#### [:blue_book: Medium](https://medium.com/@shivi.shrishti5) | [R Blogs](https://shrishtivaish-rblogs.netlify.app/) | [:e-mail:](shivi.shrishti5@gmail.com) | [Tweet @](https://twitter.com/ShrishtiVaish) | [Connect @](https://www.linkedin.com/in/shrishti-vaish/)
+### Meet my world of Data Science
+
+##### [:blue_book: Medium](https://medium.com/@shivi.shrishti5) | [R Blogs](https://shrishtivaish-rblogs.netlify.app/) | [:e-mail:](shivi.shrishti5@gmail.com) | [Tweet @](https://twitter.com/ShrishtiVaish) | [](https://www.linkedin.com/in/shrishti-vaish/)
+
+* An aspiring Data Scientist 
+* Tech Blogger at R Blogs featured by R Bloggers
+* Writer at Women Who Code Data Science publication on Medium
+* Contribution Mentor at WomenTech Network
+* Core Operations Team member at SuperPosition Delhi
+* Skilled in Python, R and Tableau
+* Sound knowledge in Java and SQL
+ 
 
 
-
-
-#### Follow him :arrow_heading_down:
-#### [:man: Rohit Sharma | :snake: Python Developer](https://github.com/devRawnie)
+###### Follow him :arrow_right: [:man: Rohit Sharma | :snake: Python Developer](https://github.com/devRawnie)
 
 <!--
 **shrish83/shrish83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

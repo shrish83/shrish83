@@ -3,7 +3,8 @@
 
 #### [:blue_book: Medium](https://medium.com/@shivi.shrishti5) | [R Blogs](https://shrishtivaish-rblogs.netlify.app/) | [:e-mail:](shivi.shrishti5@gmail.com) | [Tweet @](https://twitter.com/ShrishtiVaish) | [Connect @](https://www.linkedin.com/in/shrishti-vaish/)
 
-### Follow him :arrow_heading_down:
+
+#### Follow him :arrow_heading_down:
 #### [:man: Rohit Sharma | :snake: Python Developer](https://github.com/devRawnie)
 
 <!--

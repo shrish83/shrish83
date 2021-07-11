@@ -1,5 +1,5 @@
 # Hi there 👋
-#### :dart: Data Science Collaborator at Omdena | 🔭 Managing Intern at Girlscript.tech | :monocle_face: EDA | Machine Learning 
+#### :dart: Open Source Collaborator at Omdena | 🔭 Managing Intern at Girlscript.tech | :monocle_face: EDA | Machine Learning 
 
 ### Meet my world of Data Science
 

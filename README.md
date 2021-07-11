@@ -1,21 +1,21 @@
 # Hi there 👋
-#### :dart: Data Science | :monocle_face: EDA | Machine Learning 
+#### :dart: Data Science Collaborator at Omdena | 🔭 Managing Intern at Girlscript.tech | :monocle_face: EDA | Machine Learning 
 
 ### Meet my world of Data Science
 
 #####  [CV](https://shrishtiport89.wixsite.com/shrishtivaish) | [Portfolio](https://shrishtiport89.wixsite.com/shrishti-portfolio) | [:blue_book: Medium](https://medium.com/@shivi.shrishti5) | [R Blogs](https://shrishtivaish-rblogs.netlify.app/) | [:e-mail: Mail Me](shivi.shrishti5@gmail.com) | [Tweet Me :bird:](https://twitter.com/ShrishtiVaish) | [Let's Connect](https://www.linkedin.com/in/shrishti-vaish/)
 
 * An aspiring Data Scientist 
-* Tech Blogger at R Blogs featured by R Bloggers
 * Writer at Women Who Code Data Science publication on Medium
-* Contribution Mentor at WomenTech Network
-* Core Operations Team member at SuperPosition Delhi
+* Core & Operations at SuperPosition Delhi
+* Tech Blogger at R Blogs featured by R Bloggers
+* Former Contribution Mentor at WomenTech Network
 * Skilled in Python, R and Tableau
 * Sound knowledge in Java and SQL
  
 
 
-###### Follow him :arrow_right: [:man: Rohit Sharma | :snake: Python Developer](https://github.com/devRawnie)
+###### ⚡Follow him for daily dose of python inspiration :arrow_right: [:man: Rohit Sharma | :snake: Python Developer](https://github.com/devRawnie)
 
 <!--
 **shrish83/shrish83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

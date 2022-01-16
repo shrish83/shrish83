@@ -5,12 +5,14 @@
 
 #####  [CV](https://shrishtiport89.wixsite.com/shrishtivaish) | [Portfolio](https://shrishtiport89.wixsite.com/shrishti-portfolio) | [:blue_book: Medium](https://medium.com/@shivi.shrishti5) | [R Blogs](https://shrishtivaish-rblogs.netlify.app/) | [:e-mail: Mail Me](shivi.shrishti5@gmail.com) | [Tweet Me :bird:](https://twitter.com/ShrishtiVaish) | [Let's Connect](https://www.linkedin.com/in/shrishti-vaish/)
 
-* An aspiring Data Scientist 
-* Writer at Women Who Code Data Science publication on Medium
+* An aspiring Data Analyst | Data Scientist
+* Data Analyst Intern at Stratacon
+* Writer | Volunteer at Women Who Code Data Science publication on Medium
+* Volunteer at Women Who Code Python Track
 * Core & Operations at SuperPosition Delhi
 * Tech Blogger at R Blogs featured by R Bloggers
 * Former Contribution Mentor at WomenTech Network
-* Skilled in Python, R and Tableau
+* Skilled in MS Excel, Python, R and Tableau
 * Sound knowledge in Java and SQL
  
 

@@ -1,20 +1,21 @@
 # Hi there 👋
-#### :dart: Data Analyst at Numerator | Junior ML Engineer at Omdena | 🔭 Track Lead at Women Who Code Python | :monocle_face: EDA | Machine Learning 
+#### :dart: Data Analyst at Numerator | KaggleX BIPOC Mentee Cohort 3 | 🔭 Track Lead at Women Who Code Python | :monocle_face: EDA | Machine Learning 
 
 ### Meet my world of Data Science
 
 #####  [CV](https://shrishtiport89.wixsite.com/shrishtivaish) | [Portfolio](https://shrishtiport89.wixsite.com/shrishti-portfolio) | [:blue_book: Medium](https://medium.com/@shivi.shrishti5) | [R Blogs](https://shrishtivaish-rblogs.netlify.app/) | [:e-mail: Mail Me](shivi.shrishti5@gmail.com) | [Tweet Me :bird:](https://twitter.com/ShrishtiVaish) | [Let's Connect](https://www.linkedin.com/in/shrishti-vaish/)
 
 * An aspiring AI Engineer
-* Data Analyst Intern at Stratacon
+* Women Who Code Mentorship Program
+* Writer at Women Who Code publication on Medium
+* Junior ML Engineer at Omdena
+* Former Data Analyst Intern at Stratacon
 * Former Managing Intern at Girlscript.tech
-* Writer | Volunteer at Women Who Code Data Science publication on Medium
-* Volunteer at Women Who Code Python Track
-* Core & Operations at SuperPosition Delhi
+* Former Core & Operations at SuperPosition Delhi
 * Tech Blogger at R Blogs featured by R Bloggers
 * Former Contribution Mentor at WomenTech Network
-* Skilled in MS Excel, Python, R and Tableau
-* Sound knowledge in Java and SQL
+* Skilled in MS Excel, Python, R, SQL, Looker, and Tableau
+* Sound knowledge in Java and C++
  
 
 

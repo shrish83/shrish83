@@ -3,7 +3,7 @@
 
 ### Meet my world of Data Science
 
-#####  [Let's Connect](https://www.linkedin.com/in/shrishti-vaish/) | [:e-mail: Mail Me](shivi.shrishti5@gmail.com) | [Tweet Me :bird:](https://twitter.com/ShrishtiVaish) | [Portfolio]([https://shrishtiport89.wixsite.com/shrishti-vaish](https://shrishtiport89.wixsite.com/shrishti-vaish)) | [:blue_book: Medium](https://medium.com/@shivi.shrishti5) | [R Blogs](https://shrishtivaish-rblogs.netlify.app/)
+#####  [Let's Connect](https://www.linkedin.com/in/shrishti-vaish/) | [:e-mail: Mail Me](shivi.shrishti5@gmail.com) | [Tweet Me :bird:](https://twitter.com/ShrishtiVaish) | [Portfolio](https://shrishtiport89.wixsite.com/shrishti-vaish) | [:blue_book: Medium](https://medium.com/@shivi.shrishti5) | [R Blogs](https://shrishtivaish-rblogs.netlify.app/)
 
 * An aspiring AI Engineer
 * Women Who Code Mentorship Program

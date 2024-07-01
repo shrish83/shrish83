@@ -1,11 +1,14 @@
 # Hi there 👋
-#### :dart: Data Analyst at Numerator | KaggleX BIPOC Mentee Cohort 3 | 🔭 Track Lead at Women Who Code Python | :monocle_face: EDA | Machine Learning 
+#### :dart: Data & Business at Numerator | 🔭 Program Manager, Global Ops. at She Loves Data | :monocle_face: EDA | Statistical Analysis | Machine Learning | Dashboards
 
 ### Meet my world of Data Science
 
 #####  [Let's Connect](https://www.linkedin.com/in/shrishti-vaish/) | [:e-mail: Mail Me](shivi.shrishti5@gmail.com) | [Tweet Me :bird:](https://twitter.com/ShrishtiVaish) | [Portfolio](https://shrishtiport89.wixsite.com/shrishti-vaish) | [:blue_book: Medium](https://medium.com/@shivi.shrishti5) | [R Blogs](https://shrishtivaish-rblogs.netlify.app/)
 
 * An aspiring AI Engineer
+* Graduate MSc Data Analytics at Christ University, Bengaluru, India
+* KaggleX BIPOC Mentee Cohort 3
+* Track Lead at Women Who Code Python
 * Women Who Code Mentorship Program
 * Writer at Women Who Code publication on Medium
 * Junior ML Engineer at Omdena
@@ -14,7 +17,7 @@
 * Former Core & Operations at SuperPosition Delhi
 * Tech Blogger at R Blogs featured by R Bloggers
 * Former Contribution Mentor at WomenTech Network
-* Skilled in MS Excel, Python, R, SQL, Looker, and Tableau
+* Skilled in MS Excel, Python, R, SQL, Looker, Power BI and Tableau
 * Sound knowledge in Java and C++
  
 
